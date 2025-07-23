@@ -40,7 +40,7 @@ An AI-driven transcription tool that converts audio files (e.g., interviews, pod
  5. Upload audio files and get transcriptions immediately.
 
 ---
-
+```
 ## Sample Folder Structure
 .
 ├── app.py                  # Main Streamlit or Flask application
@@ -49,7 +49,7 @@ An AI-driven transcription tool that converts audio files (e.g., interviews, pod
 ├── config.py               # Secure API key loader
 ├── utils/                  # Audio processing, diarization helper scripts
 └── README.md               # This document
-
+```
 ---
 
 Future Enhancements
