@@ -64,6 +64,7 @@ Future Enhancements
 ---
 
 ##  Notes & Considerations
-  ---This tool currently requires an active OpenAI API key (paid tier).
+  --- This tool currently requires an active OpenAI API key (paid tier).
+  
   --- Whisper is a state-of-the-art multilingual speech recognition model known for its robustness across various accents and background noise conditions
     
